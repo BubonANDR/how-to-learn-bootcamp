@@ -208,7 +208,6 @@ align-self: flex-start;
 
 }
 .feynman_image{
-  border: 2px red solid;
   position: absolute;
   width: 867px;
   height: 637px;
