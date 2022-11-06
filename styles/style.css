@@ -18,6 +18,7 @@
   min-height: 600px;
   max-height: 756px;
   position: relative;
+  background-color:  #f2f2f2;
   }
 .logo {
   width: 228px;
@@ -91,7 +92,7 @@ align-self: flex-start;
   font-weight: normal;
   line-height:1.2;
   margin:0;
-  color: 2f80ed;
+
 }
 .main-text{
   flex-direction: column;
