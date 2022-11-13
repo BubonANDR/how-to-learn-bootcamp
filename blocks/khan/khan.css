@@ -51,10 +51,6 @@
   font-weight: normal;
   margin-bottom: 68px;
 }
-.khan__book-container {
-  display: flex;
-  column-gap: 48px;
-}
 
 .khan__book-container__buy-link {
   font-size: 30px;
