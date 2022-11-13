@@ -8,7 +8,11 @@
 
 @import url(./blocks/elements/section-table/section-table__cell_theme_light.css);
 
-@import url(./blocks/elements/logo/yandex-logo.css);
+@import url(./blocks/elements/logo/logo.css);
+
+@import url(./blocks/elements/logo/__place/logo_place_header.css);
+
+@import url(./blocks/elements/logo/__place/logo_place_footer.css);
 
 @import url(./blocks/elements/_rotation/rotation.css);
 

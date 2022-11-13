@@ -9,13 +9,6 @@
   overflow: hidden;
 }
 
-.header__logo-place {
-  position: absolute;
-  top: 30px;
-  left: 64px;
-  height: auto;
-  align-self: flex-start;
-}
 
 .header__title {
   display: flex;
