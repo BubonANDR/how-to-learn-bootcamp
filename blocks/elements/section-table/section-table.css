@@ -1,4 +1,4 @@
-.section__table {
+.section-table {
   display: flex;
   width: 1100px;
   margin: 0 auto 0;
@@ -10,14 +10,14 @@
   list-style: none;
 }
 
-.section__table__heading {
+.section-table__heading {
   font-size: 24px;
   font-weight: 600;
   line-height: 1.15;
   margin-top: 0;
 }
 
-.section__table__heading_text {
+.section-table__heading-text {
   font-size: 18px;
   font-weight: normal;
   line-height: 1.2;

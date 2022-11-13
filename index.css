@@ -2,11 +2,11 @@
 
 @import url(./blocks/elements/two-columns/two-columns.css);
 
-@import url(./blocks/elements/section__table/_theme/section__table__cell_theme_light.css);
+@import url(./blocks/elements/section-table/__cell/_theme/section-table__cell_theme_light.css);
 
 @import url(./blocks/elements/section-title/_theme/section-title_theme_dark.css);
 
-@import url(./blocks/elements/section__table/_theme/section__table__cell_theme_dark.css);
+@import url(./blocks/elements/section-table/__cell/_theme/section-table__cell_theme_dark.css);
 
 @import url(./blocks/elements/logo/yandex-logo.css);
 
@@ -18,7 +18,7 @@
 
 @import url(./blocks/elements/section-subtitle/section-subtitle.css);
 
-@import url(./blocks/elements/section__table/section__table.css);
+@import url(./blocks/elements/section-table/section-table.css);
 
 @import url(./blocks/header/header.css);
 

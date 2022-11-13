@@ -9,7 +9,7 @@
   overflow: hidden;
 }
 
-.logo__place_header {
+.header__logo-place {
   position: absolute;
   top: 30px;
   left: 64px;
