@@ -48,7 +48,7 @@
   margin: 18px 0;
 }
 
-.footer__columns_text-format {
+.footer__columns_decoration {
   text-decoration: none;
   color: white;
   font-weight: normal;
@@ -64,7 +64,7 @@
   z-index: 0;
 }
 
-.footer__column-links_format {
+.footer__column-link {
   margin-top: 0px;
   margin-bottom: 16px;
   height: 10px;
