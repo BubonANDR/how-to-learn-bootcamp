@@ -4,7 +4,7 @@
 
 @import url(./blocks/elements/section__table/_theme/section__table__cell_theme_light.css);
 
-@import url(./blocks/elements/section__title/_theme/section__title_theme_dark.css);
+@import url(./blocks/elements/section-title/_theme/section-title_theme_dark.css);
 
 @import url(./blocks/elements/section__table/_theme/section__table__cell_theme_dark.css);
 
@@ -14,9 +14,9 @@
 
 @import url(./blocks/elements/cards/cards.css);
 
-@import url(./blocks/elements/section__title/section__title.css);
+@import url(./blocks/elements/section-title/section-title.css);
 
-@import url(./blocks/elements/section__subtitle/section__subtitle.css);
+@import url(./blocks/elements/section-subtitle/section-subtitle.css);
 
 @import url(./blocks/elements/section__table/section__table.css);
 
