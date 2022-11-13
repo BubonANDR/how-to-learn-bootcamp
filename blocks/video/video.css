@@ -1,0 +1,16 @@
+.video {
+  padding-top: 0;
+  display: flex;
+  position: relative;
+  flex-direction: column;
+}
+
+.video__iframes {
+  display: flex;
+  margin: 0 auto -100px;
+  column-gap: 20px;
+  padding-top: 50px;
+}
+.video__iframe {
+  border: 0;
+}

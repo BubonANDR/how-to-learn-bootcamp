@@ -1,0 +1,23 @@
+@import url(../elements/section__title/_theme/section__title_theme_dark.css);
+@import url(../elements/section__table/_theme/section__table__cell_theme_dark.css);
+@import url(../elements/_rotation/rotation.css);
+
+.kaufman {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #1f1f1f;
+}
+
+.kaufman__triangle {
+  position: absolute;
+  width: 877px;
+  height: 877px;
+  align-self: flex-end;
+  top: 0px;
+  right: -210px;
+  animation: rotation 20s infinite linear;
+}
