@@ -32,7 +32,6 @@
 .header__subtitle {
   position: absolute;
   bottom: 30px;
-  font-weight: normal;
   left: 64px;
   width: 388px;
   z-index: 2;
