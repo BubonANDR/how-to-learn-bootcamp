@@ -14,7 +14,7 @@
   gap: 48px;
 }
 
-.khan__book-conteiner__book-pic {
+.khan__book-pic {
   width: 620px;
   height: 608px;
   overflow: hidden;
@@ -52,7 +52,7 @@
   margin-bottom: 68px;
 }
 
-.khan__book-container__buy-link {
+.khan__buy-link {
   font-size: 30px;
   line-height: 42px;
   font-weight: normal;

@@ -24,3 +24,8 @@
   margin-block-start: 20px;
   margin-block-end: 0;
 }
+
+.section-table__cell {
+  box-sizing: border-box;
+}
+
