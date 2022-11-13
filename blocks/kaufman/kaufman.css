@@ -1,7 +1,3 @@
-@import url(../elements/section__title/_theme/section__title_theme_dark.css);
-@import url(../elements/section__table/_theme/section__table__cell_theme_dark.css);
-@import url(../elements/_rotation/rotation.css);
-
 .kaufman {
   position: relative;
   display: flex;

@@ -1,3 +1,25 @@
+@import url(./blocks/elements/link/link.css);
+
+@import url(./blocks/elements/two-columns/two-columns.css);
+
+@import url(./blocks/elements/section__table/_theme/section__table__cell_theme_light.css);
+
+@import url(./blocks/elements/section__title/_theme/section__title_theme_dark.css);
+
+@import url(./blocks/elements/section__table/_theme/section__table__cell_theme_dark.css);
+
+@import url(./blocks/elements/logo/yandex-logo.css);
+
+@import url(./blocks/elements/_rotation/rotation.css);
+
+@import url(./blocks/elements/cards/cards.css);
+
+@import url(./blocks/elements/section__title/section__title.css);
+
+@import url(./blocks/elements/section__subtitle/section__subtitle.css);
+
+@import url(./blocks/elements/section__table/section__table.css);
+
 @import url(./blocks/header/header.css);
 
 @import url(./blocks/description/description.css);
@@ -19,8 +41,6 @@
 @import url(./blocks/khan/khan.css);
 
 @import url(./blocks/resources/resourses.css);
-
-@import url(./blocks/elements/link/link.css);
 
 .page {
   min-width: 1100px;

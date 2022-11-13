@@ -1,8 +1,3 @@
-@import url(../elements/section__title/section__title.css);
-@import url(../elements/section__subtitle/section__subtitle.css);
-@import url(../elements/section__table/section__table.css);
-@import url(../elements/section__table/_theme/section__table__cell_theme_light.css);
-
 .digits {
   display: flex;
   flex-direction: column;
