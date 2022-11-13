@@ -42,17 +42,17 @@
 
 .footer__column-heading {
   margin: 0;
-}
-
-.author {
-  margin: 18px 0;
-}
-
-.footer__columns_decoration {
   text-decoration: none;
   color: white;
   font-weight: normal;
   margin-left: 0;
+}
+
+.author {
+  margin: 18px 0;
+  text-decoration: none;
+  color: white;
+  font-weight: normal;
 }
 
 .footer__column-links {
@@ -68,6 +68,10 @@
   margin-top: 0px;
   margin-bottom: 16px;
   height: 10px;
+  text-decoration: none;
+  color: white;
+  font-weight: normal;
+  margin-left: 0;
 }
 
 .footer__social-icon {
