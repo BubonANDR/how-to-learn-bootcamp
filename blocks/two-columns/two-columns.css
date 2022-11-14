@@ -1,0 +1,12 @@
+@import url(./__breef/two-columns__breef.css);
+@import url(./__mait-text/two-columns__main-text.css);
+@import url(./__paragraph-indent/two-columns__paragraph-indent.css);
+@import url(./__paragraph/two-columns__paragraph.css);
+@import url(./__span-accent/two-columns__span-accent.css);
+
+.two-columns {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
