@@ -1,6 +1,3 @@
-@import url(./_theme/table__cell_theme_dark.css);
-@import url(./_theme/table__cell_theme_light.css);
-
 .table__cell {
   box-sizing: border-box;
 }
