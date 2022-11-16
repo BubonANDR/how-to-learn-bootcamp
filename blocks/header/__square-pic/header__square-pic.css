@@ -2,8 +2,9 @@
   position: absolute;
   height: 568px;
   width: 568px;
-  background-color: rgb(100, 100, 228);
+  background-color: #2f80ed;
   right: 0;
   top: 64px;
   bottom: 0;
+  z-index: -1;
 }

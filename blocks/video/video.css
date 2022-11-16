@@ -1,6 +1,6 @@
 .video {
   padding-top: 100px;
   display: flex;
-  position: relative;
+  width: 100%;
   flex-direction: column;
 }
