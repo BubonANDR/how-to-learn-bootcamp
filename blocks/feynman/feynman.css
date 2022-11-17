@@ -10,4 +10,5 @@
   background-repeat: no-repeat;
   background-position-y: bottom;
   background-position-x: left;
+  box-sizing: border-box;
 }

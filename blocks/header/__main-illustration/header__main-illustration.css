@@ -5,5 +5,5 @@
   right: 0;
   position: absolute;
   object-fit: cover;
-  
+  z-index: -1;
 }
